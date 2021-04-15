@@ -1,0 +1,111 @@
+@media(min-width: 768px){
+
+    .body__header header {
+        padding: 15px 0 10px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+
+    .nav__list + li {
+        margin-left: 60px;
+    }
+
+    .header__nav ul {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .nav__link:hover {
+        color: var(--color-theme);
+    }
+
+    .nav__link::after {
+        content: "";
+        width: 0%;
+        height: 2px;
+        background-color: var(--color-theme);
+        position: absolute;
+        bottom: -5px;
+        left: 0;
+        transition: ease-in-out 300ms;
+        -webkit-transition: ease-in-out 300ms;
+        -moz-transition: ease-in-out 300ms;
+        -ms-transition: ease-in-out 300ms;
+        -o-transition: ease-in-out 300ms;
+    }
+
+    .nav__link:hover::after {
+        width: 100%;
+    }
+
+    .nav__active{
+        color: var(--color-theme);
+    }
+
+    .nav__active::after {
+        content: "";
+        width: 100%;
+        height: 2px;
+        background-color: var(--color-theme);
+        position: absolute;
+        bottom: -5px;
+        left: 0;
+    }
+
+    /* ===============================
+
+        #body banner
+
+    ==================================*/
+
+    .banner__btn{
+        padding: 10px 0;
+        position: relative;
+        display: inline-block;
+    }
+
+     .banner__btn::after {
+        content: "";
+        width: 20%;
+        height: 2px;
+        background-color: var(--color-theme);
+        position: absolute;
+        bottom: 0px;
+        left: 0;
+        transition: ease-in-out 300ms;
+        -webkit-transition: ease-in-out 300ms;
+        -moz-transition: ease-in-out 300ms;
+        -ms-transition: ease-in-out 300ms;
+        -o-transition: ease-in-out 300ms;
+    }
+
+   /* .banner__btn::before {
+        content: "";
+        width: 2px;
+        height: 10px;
+        background-color: var(--color-theme);
+        position: absolute;
+        bottom: 0px;
+        left: 0;
+        transition: ease-in-out 300ms;
+        -webkit-transition: ease-in-out 300ms;
+        -moz-transition: ease-in-out 300ms;
+        -ms-transition: ease-in-out 300ms;
+        -o-transition: ease-in-out 300ms;
+    } */
+
+    .banner__btn:hover {
+        color: var(--color-theme);
+    }
+
+    .banner__btn:hover::after {
+        width: 100%; 
+    }
+
+    .banner__btn:hover::before {
+        height: 100%; 
+    }
+
+}
