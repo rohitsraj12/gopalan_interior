@@ -6,19 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <!-- stylesheet -->
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.3/animate.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
 </head>
 <body>
     <!-- strat body wrap -->
     <div class="body__wrap">
         <!-- start body header -->
         <div class="body__header">
-            <header class="wrap__header">
+            <header class="wrap__container">
                 <!-- start header brand -->
                 <div class="header__brand">
                     <a href="">
-                        <img class="header__brand-img" src="" alt="">
+                        <img class="header__brand-img" src="img/brand/gopalan-interiors-header.png" alt="">
                     </a>
                 </div>
                 <!-- end header brand -->
@@ -26,9 +32,9 @@
                 <!-- start header nav -->
                 <nav class="header__nav">
                     <ul>
-                        <li class="nav__list"><a href="" class="nav__link">home</a></li>
+                        <li class="nav__list"><a href="" class="nav__link nav__active">home</a></li>
                         <li class="nav__list"><a href="" class="nav__link">service</a></li>
-                        <li class="nav__list"><a href="" class="nav__link">projects</a></li>
+                        <li class="nav__list"><a href="" class="nav__link">portfolio</a></li>
                         <li class="nav__list"><a href="" class="nav__link">about us</a></li>
                         <li class="nav__list"><a href="" class="nav__link">contact us</a></li>
                     </ul>
@@ -39,9 +45,120 @@
         </div>
         <!-- end body header -->
 
+        <!-- start body banner -->
+            <div class="body__banner">
+                <div class="owl-carousel owl-theme">
+                    <div class="item">
+                        <!-- start banner image -->
+                        <div class="banner__image">
+                            <img class="banner__image-block" src="img/banner/banner_lg_2.jpg" alt="">
+                        </div>
+                        <!-- end banner image -->
+
+                        <!-- start banner content -->
+                        <div class="banner__content">
+                            <div class="banner__content-wrap wrap__container">
+                                <section>
+                                    <header class="">
+                                        <h3 class="banner_header-two">
+                                            Private Modern Residence
+                                        </h3>
+                                        <h2 class="banner_header-one">
+                                            Commercial
+                                        </h2>
+                                    </header>
+                                    
+
+                                    <!-- <div class="banner__btn-wrap">
+                                        <a href="" class="banner__btn">view projects</a>
+                                    </div> -->
+                                </section>
+                            </div>
+                        </div>
+                        <!-- end banner content -->
+
+                    </div>
+                    
+
+                    <div class="item bg-danger">
+                        <!-- start banner image -->
+                        <div class="banner__image">
+                            <img class="banner__image-block" src="img/banner/banner_lg_1.jpg" alt="">
+                        </div>
+                        <!-- end banner image -->
+
+                        <!-- start banner content -->
+                        <div class="banner__content">
+                            <div class="banner__content-wrap wrap__container">
+                                <section>
+                                    <header class="">
+                                        <h2 class="banner_header-one">
+                                            Residential
+                                        </h2>
+                                        <h3 class="banner_header-two">
+                                            Private Modern Residence
+                                        </h3>
+                                    </header>
+                                    
+
+                                    <!-- <div class="banner__btn-wrap">
+                                        <a href="" class="banner__btn">view projects</a>
+                                    </div> -->
+                                </section>
+                            </div>
+                        </div>
+                        <!-- end banner content -->
+                    </div>
+                    
+                  </div>
+            </div>
+        <!-- end body banner -->
+
+        <!-- start body container -->
+        <div class="body__container">
+            <main>
+                <!-- start section about -->
+                <section class="section__block section__about">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12 col-md-6">
+                                <div class="wrap__header">
+                                    <h2 class="section__header-primary">
+                                        about gopalan interiours
+                                    </h2>
+                                    <h2 class="section__header-main">
+                                        We Are Passionate And Always Produce Better Results For Interiors.
+                                    </h2>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <div class="wrap__detail">
+                                    <p class="sub__detail">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Et ipsa tenetur magni amet similique, excepturi praesentium vero odio vel voluptas.
+                                    </p>
+
+                                    <p class="main__detail">
+                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore asperiores exercitationem fugit eveniet laborum mollitia et nostrum? Nostrum fuga autem optio dolor, provident explicabo deleniti laboriosam neque repudiandae modi dolorem amet distinctio odit odio delectus cumque illo vitae assumenda aut!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- end section about -->
+
+                <!-- start section services -->
+                    <section class="section__service">
+                        
+                    </section>
+                <!-- end section services -->
+            </main>
+        </div>
+        <!-- end body container -->
+
         <!-- start body footer -->
         <div class="body__footer">
-            <footer>
+            <footer class="wrap__container">
                 
             </footer>
         </div>
@@ -50,5 +167,11 @@
     <!-- end body wrap -->
 
     <!-- script -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollify/1.0.4/jquery.scrollify.min.js"></script>
+    <script src="js/script.js"></script>
 </body>
 </html>l
