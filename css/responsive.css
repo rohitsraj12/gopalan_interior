@@ -1,87 +1,114 @@
-@media(min-width: 768px){
+@media (min-width: 768px) {
+  .body__header header {
+    padding: 15px 0 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
 
-    .body__header header {
-        padding: 15px 0 10px;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: flex-end;
-    }
+  .nav__list + li {
+    margin-left: 30px;
+  }
 
-    .nav__list + li {
-        margin-left: 60px;
-    }
+  .header__nav > ul {
+    display: flex;
+    flex-direction: row;
+  }
 
-    .header__nav ul {
-        display: flex;
-        flex-direction: row;
-    }
-    
-    .nav__link:hover {
-        color: var(--color-theme);
-    }
+  .nav__link:hover,
+  .sub-nav__link:hover {
+    color: var(--color-theme);
+  }
 
-    .nav__link::after {
-        content: "";
-        width: 0%;
-        height: 2px;
-        background-color: var(--color-theme);
-        position: absolute;
-        bottom: -5px;
-        left: 0;
-        transition: ease-in-out 300ms;
-        -webkit-transition: ease-in-out 300ms;
-        -moz-transition: ease-in-out 300ms;
-        -ms-transition: ease-in-out 300ms;
-        -o-transition: ease-in-out 300ms;
-    }
+  .nav__link::after {
+    content: "";
+    width: 0%;
+    height: 2px;
+    background-color: var(--color-theme);
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    transition: ease-in-out 300ms;
+    -webkit-transition: ease-in-out 300ms;
+    -moz-transition: ease-in-out 300ms;
+    -ms-transition: ease-in-out 300ms;
+    -o-transition: ease-in-out 300ms;
+  }
 
-    .nav__link:hover::after {
-        width: 100%;
-    }
+  .nav__link:hover::after {
+    width: 100%;
+  }
 
-    .nav__active{
-        color: var(--color-theme);
-    }
+  .nav__active {
+    color: var(--color-theme);
+  }
 
-    .nav__active::after {
-        content: "";
-        width: 100%;
-        height: 2px;
-        background-color: var(--color-theme);
-        position: absolute;
-        bottom: -5px;
-        left: 0;
-    }
+  .nav__active::after {
+    content: "";
+    width: 100%;
+    height: 2px;
+    background-color: var(--color-theme);
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+  }
 
-    /* ===============================
+  .nav__list {
+    position: relative;
+  }
+
+  .sub__nav {
+    display: none;
+    position: absolute;
+    top: 57px;
+    left: 0;
+    width: 200px;
+    background-color: rgba(0, 0, 0, 0.309);
+  }
+
+  .sub__nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+  }
+
+  .sub-nav__list {
+    margin-bottom: 3px;
+  }
+
+  .sub-nav__link:hover {
+    padding-left: 6px;
+  }
+
+  /* ===============================
 
         #body banner
 
     ==================================*/
 
-    .banner__btn{
-        padding: 10px 0;
-        position: relative;
-        display: inline-block;
-    }
+  .banner__btn {
+    padding: 10px 0;
+    position: relative;
+    display: inline-block;
+  }
 
-     .banner__btn::after {
-        content: "";
-        width: 20%;
-        height: 2px;
-        background-color: var(--color-theme);
-        position: absolute;
-        bottom: 0px;
-        left: 0;
-        transition: ease-in-out 300ms;
-        -webkit-transition: ease-in-out 300ms;
-        -moz-transition: ease-in-out 300ms;
-        -ms-transition: ease-in-out 300ms;
-        -o-transition: ease-in-out 300ms;
-    }
+  .banner__btn::after {
+    content: "";
+    width: 20%;
+    height: 2px;
+    background-color: var(--color-theme);
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    transition: ease-in-out 300ms;
+    -webkit-transition: ease-in-out 300ms;
+    -moz-transition: ease-in-out 300ms;
+    -ms-transition: ease-in-out 300ms;
+    -o-transition: ease-in-out 300ms;
+  }
 
-   /* .banner__btn::before {
+  /* .banner__btn::before {
         content: "";
         width: 2px;
         height: 10px;
@@ -96,46 +123,82 @@
         -o-transition: ease-in-out 300ms;
     } */
 
-    .banner__btn:hover {
-        color: var(--color-theme);
-    }
+  .banner__btn:hover {
+    color: var(--color-theme);
+  }
 
-    .banner__btn:hover::after {
-        width: 100%; 
-    }
+  .banner__btn:hover::after {
+    width: 100%;
+  }
 
-    .banner__btn:hover::before {
-        height: 100%; 
-    }
+  .banner__btn:hover::before {
+    height: 100%;
+  }
 
-    /* ================================
+  /* ================================
     
         #body container
     
     ===================================*/
-    .section__service .wrap__left {
-        width: 30%;
-        padding: 40px 40px 40px 10%;
-    }
+  .section__service .wrap__left {
+    width: 30%;
+    padding: 40px 40px 40px 40px;
+  }
 
-    .section__service .wrap__right {
-        width: 70%;
-        padding: 60px 40px 0; 
-    }
+  .section__service .wrap__right {
+    width: 70%;
+    padding: 60px 40px 0;
+  }
 
-    .service__slider-image {
-        width: 100%;
-        height: 400px;
-    }
+  .service__slider-image {
+    width: 100%;
+    height: 400px;
+  }
 
+  .wrap__right {
+    /* display: flex;
+    flex-direction: column; */
+  }
+
+  .section__service .wrap__right .owl-prev,
+  .section__service .wrap__right .owl-next {
+    bottom: 0px;
+  }
+
+  .section__service .wrap__right .owl-prev {
+    left: -80px;
+  }
+
+  .section__service .wrap__right .owl-next {
+    left: -29px;
+  }
 }
 
-@media(max-width: 767px){
-    .section__service .wrap__left {
-        padding: 60px 30px;
-    }
+@media (min-width: 768px) and (max-width: 1400px) {
+  .home__location-slide figure img {
+    height: 300px;
+  }
+}
 
-    .section__service .wrap__right {
-        background-color: #222;
-    } 
+@media (max-width: 767px) {
+  .section__service .wrap__left {
+    padding: 60px 30px;
+  }
+
+  .section__service .wrap__right {
+    background-color: #222;
+  }
+
+  .section__service .wrap__right .owl-prev,
+  .section__service .wrap__right .owl-next {
+    bottom: -100px;
+  }
+
+  .section__service .wrap__right .owl-prev {
+    left: 0px;
+  }
+
+  .section__service .wrap__right .owl-next {
+    left: 0px;
+  }
 }
