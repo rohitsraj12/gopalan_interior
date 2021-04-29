@@ -7,6 +7,10 @@ $(document).ready(function(){
       $(this).slideUp();
     })
 
+    $(".hamburger").click(function(){
+      $(".header__nav").slideToggle();
+    })
+
     $('.home_banner').owlCarousel({
         items: 1,
         margin: 10,
