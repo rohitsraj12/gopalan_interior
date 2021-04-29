@@ -226,3 +226,13 @@
 .wrap__faq:first-child .faq__ans {
   display: block;
 }
+.copy__right {
+  border-top: 1px solid rgba(20, 21, 24, 0.248);
+  background-color: rgb(16, 18, 19);
+}
+
+.copy__right a,
+.copy__right p {
+  font-family: var(--font-base);
+  color: #fff;
+}
