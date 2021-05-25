@@ -1,0 +1,64 @@
+.fx3 .item {
+  padding: 0;
+}
+.fx3 .item img {
+  padding: 0 !important;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  outline: transparent solid 2px;
+  outline-offset: 0px;
+}
+.fx3 a:hover .item img,
+.fx3 a:focus .item img {
+  opacity: 0.8;
+  outline: rgb(243, 171, 36) solid 2px;
+  outline-offset: -10px;
+}
+.fx3 h4,
+.fx3 p {
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+.fx3 a .item h4 {
+  font-family: var(--font-base);
+  font-size: 1.4rem;
+  position: absolute;
+  color: rgb(21, 11, 5);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  position: absolute;
+  top: 40%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  text-align: center;
+  opacity: 0;
+}
+.fx3 a:hover .item h4,
+.fx3 a:focus .item h4 {
+  opacity: 1;
+}
+.fx3 a .item p {
+  width: 70%;
+  font-family: "Raleway", sans-serif;
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.4);
+  font-size: 1rem;
+  position: absolute;
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  position: absolute;
+  top: 54%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  text-align: center;
+  opacity: 0;
+}
+.fx3 a:hover .item p,
+.fx3 a:focus .item p {
+  opacity: 1;
+}
