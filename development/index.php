@@ -95,11 +95,11 @@
                                                 </figure>
                                                 <header class="header">
                                                     <h2>
-                                                        Architecture
+                                                        Kitchen Interiors
                                                     </h2>
                                                 </header>
                                                 <footer class="footer">
-                                                    <a href="architecture.html"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                                    <a href="portfolio_details.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                                 </footer>
                                             </article>
                                     </div>
@@ -115,7 +115,7 @@
                                                 </h2>
                                             </header> 
                                             <footer class="footer">
-                                                <a href="floor_plan.html"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                                <a href="portfolio_details.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                             </footer>
                                         </article>
                                     </div>
@@ -131,7 +131,7 @@
                                                 </h2>
                                             </header>
                                             <footer class="footer">
-                                                <a href="exterior.html"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                                <a href="portfolio_details.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                             </footer>
                                         </article>
 
@@ -148,7 +148,7 @@
                                                 </h2>
                                             </header>
                                             <footer class="footer">
-                                                <a href="home_lighting.html"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                                <a href="portfolio_details.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                             </footer>
                                         </article>
                                     </div>
@@ -164,7 +164,7 @@
                                                 </h2>
                                             </header>
                                             <footer class="footer">
-                                                <a href="interior.html"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                                <a href="portfolio_details.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                             </footer>
                                         </article>
                                     </div>
