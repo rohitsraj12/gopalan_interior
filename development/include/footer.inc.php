@@ -26,24 +26,23 @@
                             </header>
                             <div class="footer__body">
                                 <ul class="list-unstyled">
-                                    <li><a href="index.html">home</a></li>
-                                    <li><a href="">service</a></li>
-                                    <li><a href="about_us.html">about us</a></li>
-                                    <li><a href="contact_us.html">contact us</a></li>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="about_us.php">How it works</a></li>
+                                    <li><a href="gallery.php">Gallery</a></li>
+                                    <li><a href="portfolio.php">Portfolio</a></li>
+                                    <li><a href="contact_us.php">Contact us</a></li>
+                                    <li><a href="faq.php">FAQ</a></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-12 col-sm-6 col-md-2">
                             <header class="footer__header">
-                                Our Services
+                                Our Works
                             </header>
                             <div class="footer__body">
                                 <ul class="list-unstyled">
-                                    <li><a href="architecture.html">Architecture</a></li>
-                                    <li><a href="floor_plan.html">Floor Planning</a></li>
-                                    <li><a href="exterior.html">Exterior Works</a></li>
-                                    <li><a href="interior.html">Interior Design</a></li>
-                                    <li><a href="home_lighting.html">Home Lighting</a></li>
+                                    <li><a href="portfolio_details.php">Kitchen</a></li>
+                                    <li><a href="portfolio_details.php">Living Room</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -53,9 +52,9 @@
                             </header>
                             <div class="footer__body">
                                 <ul class="list-unstyled">
-                                    <li><a href="">address:</a></li>
-                                    <li><a href="">email: </a></li>
-                                    <li><a href="">phone: </a></li>
+                                    <li><a href="">address: Richmond, Bangalore</a></li>
+                                    <li><a href="">email: contact@gopalaninteriors.com</a></li>
+                                    <li><a href="">phone: +91 999 999 9999</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -108,5 +107,7 @@
     <script>
       AOS.init();
     </script>
+    <script src="js/mklb.js"></script>
+
 </body>
 </html>
