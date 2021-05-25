@@ -13,6 +13,8 @@
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
     <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/mklb.css">
+    <link rel="stylesheet" href="css/gallery.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/demo.css">
@@ -52,7 +54,7 @@
                             </div>
                         </li> -->
                         <!-- <li class="nav__list"><a href="" class="nav__link">portfolio</a></li> -->
-                        <!-- <li class="nav__list"><a href="about_us.html" class="nav__link">about us</a></li> -->
+                        <li class="nav__list pt-2"><a href="gallery.php" class="nav__link <?php if($active_nav == "gallery"){ echo "nav__active"; }?>">Gallery</a></li>
                         <li class="nav__list pt-2"><a href="portfolio.php" class="nav__link <?php if($active_nav == "portfolio"){ echo "nav__active"; }?>">portfolio</a></li>
                         <li class="nav__list pt-2"><a href="contact_us.php" class="nav__link <?php if($active_nav == "contact us"){ echo "nav__active"; }?>">contact us</a></li>
                         <li class="nav__list"><a href="book_consultation.php" class="btn btn__nav">Free Consultation</a></li>
