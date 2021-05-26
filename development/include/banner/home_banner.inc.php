@@ -16,11 +16,11 @@
                             <section>
                                 <header class="">
                                     <h2 class="banner_header-one">
-                                        Commercial
+                                        Residential Interiors
                                     </h2>
-                                    <h3 class="banner_header-two">
-                                        Private Modern Office
-                                    </h3>
+                                    <h2 class="banner_header-two">
+                                        Residential Interiors
+                                    </h2>
                                 </header>
                                 
 
@@ -47,11 +47,11 @@
                             <section>
                                 <header class="">
                                     <h2 class="banner_header-one">
-                                        Residential
+                                        Commercial Interiors
                                     </h2>
-                                    <h3 class="banner_header-two">
-                                        Private Modern Residence
-                                    </h3>
+                                    <h2 class="banner_header-two">
+                                        Office Space Design
+                                    </h2>
                                 </header>
                                 
 
