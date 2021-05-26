@@ -27,10 +27,10 @@
                             data-aos-easing="ease-in-out">
                                 <div class="wrap__header">
                                     <h2 class="section__header-primary">
-                                        about gopalan interiours
+                                        why gopalan interiours
                                     </h2>
                                     <h2 class="section__header-main">
-                                        We Are Passionate And Always Produce Better Results For Interiors.
+                                        We listen, we create, you enjoy
                                     </h2>
                                 </div>
                             </div>
@@ -42,11 +42,11 @@
                             data-aos-easing="ease-in-out">
                                 <div class="wrap__detail">
                                     <p class="sub__detail">
-                                        We at Gopalan Interiors believe in giving the best designed interiors for our clients. Our aim is to provide home interiors that are a reflection of your personality.
+                                        At Gopalan Interiors, we believe in giving the best designed interiors for our clients. Our aim is to turn our customer’s dream into reality. 
                                     </p>
 
                                     <p class="main__detail">
-                                        Our mission is to offer you innovative interior designs, making your home a place that you love spending time with your family and friends.    
+                                        Our mission is to offer you innovative interior designs, making your home a place that you love spending time with your family and friends. We strive for perfection in every step.
                                     </p>
                                 </div>
                             </div>
@@ -95,7 +95,7 @@
                                                 </figure>
                                                 <header class="header">
                                                     <h2>
-                                                        Kitchen Interiors
+                                                        Kitchen
                                                     </h2>
                                                 </header>
                                                 <footer class="footer">
@@ -111,7 +111,7 @@
                                             </figure>
                                             <header class="header">
                                                 <h2>
-                                                    Floor Planning
+                                                    Living Room
                                                 </h2>
                                             </header> 
                                             <footer class="footer">
@@ -127,7 +127,7 @@
                                             </figure>
                                             <header class="header">
                                                 <h2>
-                                                    Exterior Works
+                                                    Dining 
                                                 </h2>
                                             </header>
                                             <footer class="footer">
@@ -144,7 +144,7 @@
                                             </figure>
                                             <header class="header">
                                                 <h2>
-                                                    Home Lighting
+                                                    Bed Room
                                                 </h2>
                                             </header>
                                             <footer class="footer">
@@ -160,7 +160,23 @@
                                             </figure>
                                             <header class="header">
                                                 <h2>
-                                                    Interior Design
+                                                    Kids Room
+                                                </h2>
+                                            </header>
+                                            <footer class="footer">
+                                                <a href="portfolio_details.php"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                            </footer>
+                                        </article>
+                                    </div>
+
+                                    <div class="home__location-slide">
+                                            <article>
+                                            <figure>
+                                                <img class="service__slider-image" src="img/banner/banner_lg_2.jpg" alt="">
+                                            </figure>
+                                            <header class="header">
+                                                <h2>
+                                                    Study Space
                                                 </h2>
                                             </header>
                                             <footer class="footer">
@@ -181,34 +197,34 @@
                         <div class="container">
                             <div class="row align-items-center">
                                 <div class="col-12 col-md-6"  
-                                data-aos="fade-up"
-                                data-aos-offset="200"
-                                data-aos-delay="50"
-                                data-aos-duration="1000"
-                                data-aos-easing="ease-in-out">
+                                    data-aos="fade-up"
+                                    data-aos-offset="200"
+                                    data-aos-delay="50"
+                                    data-aos-duration="1000"
+                                    data-aos-easing="ease-in-out">
                                     <div class="wrap__header">
-                                        <h2 class="section__header-primary">
+                                        <!-- <h2 class="section__header-primary">
                                             Story of Gopalan
-                                        </h2>
+                                        </h2> -->
                                         <h2 class="section__header-main">
-                                            Power Of Decysions.
+                                            Come home to your dream
                                         </h2>
                                     </div>
 
                                     <div class="section__body pt-3 wrap__detail">
                                         <p class="main__detail">
-                                            Simplicity is the best policy, hence we design homes that are elegant yet simple. We make sure to create the space that you have been dreaming about. We also keep in mind your needs and incorporate them in every corner of your home to meet your requirements.
+                                            Through our innovative designs, we work towards building a better life. From contemporary modular designed kitchens, to classy looking cabinets, we shape your homes the way you want it.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="col-md-1"></div>
 
                                 <div class="col-12 col-md-5" 
-                                data-aos="fade-up"
-                                data-aos-offset="200"
-                                data-aos-delay="150"
-                                data-aos-duration="1000"
-                                data-aos-easing="ease-in-out">
+                                    data-aos="fade-up"
+                                    data-aos-offset="200"
+                                    data-aos-delay="150"
+                                    data-aos-duration="1000"
+                                    data-aos-easing="ease-in-out">
                                     <figure>
                                         <img class="w-100" src="img/draft/1.jpg" alt="">
                                     </figure>
@@ -238,17 +254,17 @@
                                 data-aos-duration="1000"
                                 data-aos-easing="ease-in-out">
                                     <div class="wrap__header">
-                                        <h2 class="section__header-primary">
+                                        <!-- <h2 class="section__header-primary">
                                             Story of Gopalan
-                                        </h2>
+                                        </h2> -->
                                         <h2 class="section__header-main">
-                                            Strength Of Planning.
+                                            Interiors that reflect your style
                                         </h2>
                                     </div>
 
                                     <div class="section__body pt-3 wrap__detail">
                                         <p class="main__detail">
-                                            We design interiors that compliment your lifestyle. From contemporary modular designed kitchens, to classy looking cabinets, we shape your homes the way you want it.    
+                                        We design homes that are elegant yet simple. Our experts make sure to create the space that you have been dreaming about. We work closely with our clients to understand their lifestyle and their requirements. We use our design expertise to create a living space that upgrade your lifestyle.     
                                         </p>
                                     </div>
                                 </div>
@@ -258,8 +274,6 @@
 
                 </section>
                 <!-- end section story -->
-
-
 
                 <!-- start section testimonial -->
                 <section class="section__testimonial">
@@ -348,176 +362,11 @@
                 </section>
                 <!-- end section testimonial -->
                 
-                <!-- start section story -->
-                <section class="section__block section__story">
-                    <div class="section__group py-5">
-                        <div class="wrap__container ">
-                            <div class="wrap__header pb-3">
-                                <h2 class="section__header-primary">
-                                    Process
-                                </h2>
-                                <h2 class="section__header-main">
-                                    How gopalan interiors process
-                                </h2>
-                            </div>
-                        </div>
-                        <div class="how_it_work">
-
-                            <div class="wrap__step">
-
-                                <article data-aos="fade-up"
-                                    data-aos-offset="100"
-                                    data-aos-delay="50"
-                                    data-aos-duration="1000"
-                                    data-aos-easing="ease-in-out">
-                                    <div class="step__block d-flex justify-content-between align-items-end">
-                                        <div class="section__left w-75">
-                                            <header class="section__header-primary pb-2">
-                                                Concept
-                                            </header>
-                                            <p class="main__detail">
-                                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ad fugiat tempora harum voluptatem!   
-                                            </p>
-                                        </div>
-                                        <div class="section__right">
-                                            <span>
-                                                01
-                                            </span>
-                                        </div>
-                                    </div>
-                                </article>
-                                <article data-aos="fade-up"
-                                    data-aos-offset="100"
-                                    data-aos-delay="50"
-                                    data-aos-duration="1000"
-                                    data-aos-easing="ease-in-out">
-                                    <div class="step__block d-flex justify-content-between align-items-end">
-                                        <div class="section__left w-75">
-                                            <header class="section__header-primary pb-2">
-                                                Design
-                                            </header>
-                                            <p class="main__detail">
-                                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ad fugiat tempora harum voluptatem!   
-                                            </p>
-                                        </div>
-                                        <div class="section__right">
-                                            <span>
-                                                03
-                                            </span>
-                                        </div>
-                                    </div>
-                                </article>
-                                <article data-aos="fade-up"
-                                    data-aos-offset="100"
-                                    data-aos-delay="50"
-                                    data-aos-duration="1000"
-                                    data-aos-easing="ease-in-out">
-                                    <div class="step__block d-flex justify-content-between align-items-end">
-                                        <div class="section__left w-75">
-                                            <header class="section__header-primary pb-2">
-                                                Launch
-                                            </header>
-                                            <p class="main__detail">
-                                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ad fugiat tempora harum voluptatem!   
-                                            </p>
-                                        </div>
-                                        <div class="section__right">
-                                            <span>
-                                                05
-                                            </span>
-                                        </div>
-                                    </div>
-                                </article>
-                                <article data-aos="fade-up"
-                                    data-aos-offset="100"
-                                    data-aos-delay="50"
-                                    data-aos-duration="1000"
-                                    data-aos-easing="ease-in-out">
-                                    <div class="step__block d-flex justify-content-between align-items-end">
-                                        <div class="section__left w-75">
-                                            <header class="section__header-primary pb-2">
-                                                Plan
-                                            </header>
-                                            <p class="main__detail">
-                                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ad fugiat tempora harum voluptatem!   
-                                            </p>
-                                        </div>
-                                        <div class="section__right">
-                                            <span>
-                                                02
-                                            </span>
-                                        </div>
-                                    </div>
-                                </article>
-                                <article data-aos="fade-up"
-                                    data-aos-offset="100"
-                                    data-aos-delay="50"
-                                    data-aos-duration="1000"
-                                    data-aos-easing="ease-in-out">
-                                    <div class="step__block d-flex justify-content-between align-items-end">
-                                        <div class="section__left w-75">
-                                            <header class="section__header-primary pb-2">
-                                                Build
-                                            </header>
-                                            <p class="main__detail">
-                                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ad fugiat tempora harum voluptatem!   
-                                            </p>
-                                        </div>
-                                        <div class="section__right">
-                                            <span>
-                                                04
-                                            </span>
-                                        </div>
-                                    </div>
-                                </article>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <!-- <div class="section__group">
-                        <div class="container">
-                            <div class="row align-items-center">
-                                <div class="col-12 col-md-5" 
-                                data-aos="fade-up"
-                                data-aos-offset="200"
-                                data-aos-delay="50"
-                                data-aos-duration="1000"
-                                data-aos-easing="ease-in-out">
-                                    <figure>
-                                        <img class="w-100" src="img/draft/2.jpg" alt="">
-                                    </figure>
-                                </div>
-                                <div class="col-md-1"></div>
-                                <div class="col-12 col-md-6" 
-                                data-aos="fade-up"
-                                data-aos-offset="200"
-                                data-aos-delay="150"
-                                data-aos-duration="1000"
-                                data-aos-easing="ease-in-out">
-                                    <div class="wrap__header">
-                                        <h2 class="section__header-primary">
-                                            Story of Gopalan
-                                        </h2>
-                                        <h2 class="section__header-main">
-                                            Strength Of Planning.
-                                        </h2>
-                                    </div>
-
-                                    <div class="section__body pt-3 wrap__detail">
-                                        <p class="main__detail">
-                                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum enim veritatis autem? Voluptate sapiente autem cum quibusdam tenetur vero magni magnam, aspernatur impedit neque nihil? Quos vitae minima adipisci vel hic. Error, blanditiis dolor atque eaque deleniti mollitia corporis animi magni, vel, nihil autem sunt ea molestias nobis eos debitis.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-
-                </section>
-                <!-- end section story -->
+                
+                
+                <?php
+                    include "include/sections/work_process.php";
+                ?>
 
                 <section class="section__book pb-5">
 
