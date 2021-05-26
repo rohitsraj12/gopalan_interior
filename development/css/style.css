@@ -226,6 +226,7 @@ a:hover {
   position: relative;
   display: flex;
   height: 100vh;
+  background-color: #050505;
 }
 
 .banner__image-block {
