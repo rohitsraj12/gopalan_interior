@@ -41,7 +41,7 @@
                 <nav class="header__nav">
                     <ul>
                         <li class="nav__list pt-2"><a href="index.php" class="nav__link <?php if($active_nav == "home"){ echo "nav__active"; }?>">home</a></li>
-                        <li class="nav__list pt-2"><a href="about_us.php" class="nav__link <?php if($active_nav == "about us"){ echo "nav__active"; }?>">how it works</a></li>
+                        <li class="nav__list pt-2"><a href="about_us.php" class="nav__link <?php if($active_nav == "about us"){ echo "nav__active"; }?>">how we work</a></li>
                         <!-- <li class="nav__list"><a class="nav__link">service <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                             <div class="sub__nav">
                                 <ul>
