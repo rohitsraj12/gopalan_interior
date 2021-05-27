@@ -3,10 +3,10 @@
             <footer>
                 <div class="wrap__container">
                     <div class="row pt-5 pb-3">
-                        <div class="col-12 col-sm-6 col-md-4">
+                        <div class="col-12 col-sm-6 col-md-3">
                             <div class="footer__about pt-4">
                                 <p class="text-light">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat debitis provident animi voluptatum ex, magnam eveniet dignissimos odio sint labore!
+                                At Gopalan Interiors, we believe in giving the best designed interiors for our clients. Our aim is to turn our customer’s dream into reality.     
                                 </p>
                             </div>
 
@@ -27,7 +27,7 @@
                             <div class="footer__body">
                                 <ul class="list-unstyled">
                                     <li><a href="index.php">Home</a></li>
-                                    <li><a href="about_us.php">How it works</a></li>
+                                    <li><a href="about_us.php">How we work</a></li>
                                     <li><a href="gallery.php">Gallery</a></li>
                                     <li><a href="portfolio.php">Portfolio</a></li>
                                     <li><a href="contact_us.php">Contact us</a></li>
@@ -35,14 +35,17 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-md-2">
+                        <div class="col-12 col-sm-6 col-md-3">
                             <header class="footer__header">
-                                Our Works
+                                Our Services
                             </header>
                             <div class="footer__body">
                                 <ul class="list-unstyled">
-                                    <li><a href="portfolio_details.php">Kitchen</a></li>
-                                    <li><a href="portfolio_details.php">Living Room</a></li>
+                                    <li><a href="portfolio_details.php">Commercial Interior Design</a></li>
+                                    <li><a href="portfolio_details.php">Residential Interior Design</a></li>
+                                    <li><a href="portfolio_details.php">Modular Kitchen Design</a></li>
+                                    <li><a href="portfolio_details.php">Design Consulting</a></li>
+                                    <li><a href="portfolio_details.php">Custom Furniture Design</a></li>
                                 </ul>
                             </div>
                         </div>
