@@ -42,20 +42,19 @@
                     <ul>
                         <li class="nav__list pt-2"><a href="index.php" class="nav__link <?php if($active_nav == "home"){ echo "nav__active"; }?>">home</a></li>
                         <li class="nav__list pt-2"><a href="about_us.php" class="nav__link <?php if($active_nav == "about us"){ echo "nav__active"; }?>">how we work</a></li>
-                        <!-- <li class="nav__list"><a class="nav__link">service <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                        <li class="nav__list pt-2"><a class="nav__link <?php if($active_nav == "service"){ echo "nav__active"; }?>">service <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                             <div class="sub__nav">
                                 <ul>
-                                    <li class="sub-nav__list"><a href="architecture.html" class="sub-nav__link">Architecture</a></li>
-                                    <li class="sub-nav__list"><a href="floor_plan.html" class="sub-nav__link">Floor Planning</a></li>
-                                    <li class="sub-nav__list"><a href="exterior.html" class="sub-nav__link">Exterior Works</a></li>
-                                    <li class="sub-nav__list"><a href="interior.html" class="sub-nav__link">Interior Design</a></li>
-                                    <li class="sub-nav__list"><a href="home_lighting.html" class="sub-nav__link">Home Lighting</a></li>
+                                    <li class="sub-nav__list"><a href="residential_interior_design.php" class="sub-nav__link">Residential Interior</a></li>
+                                    <li class="sub-nav__list"><a href="commercial_interior_design.php" class="sub-nav__link">Commercial Interior</a></li>
+                                    <li class="sub-nav__list"><a href="modular_kitchen_design.php" class="sub-nav__link">Modular Kitchen</a></li>
+                                    <li class="sub-nav__list"><a href="custom_furniture_design.php" class="sub-nav__link">Custom Furniture</a></li>
                                 </ul>
                             </div>
-                        </li> -->
+                        </li>
                         <!-- <li class="nav__list"><a href="" class="nav__link">portfolio</a></li> -->
                         <li class="nav__list pt-2"><a href="gallery.php" class="nav__link <?php if($active_nav == "gallery"){ echo "nav__active"; }?>">Gallery</a></li>
-                        <li class="nav__list pt-2"><a href="portfolio.php" class="nav__link <?php if($active_nav == "portfolio"){ echo "nav__active"; }?>">portfolio</a></li>
+                        <!-- <li class="nav__list pt-2"><a href="portfolio.php" class="nav__link <?php if($active_nav == "portfolio"){ echo "nav__active"; }?>">portfolio</a></li> -->
                         <li class="nav__list pt-2"><a href="contact_us.php" class="nav__link <?php if($active_nav == "contact us"){ echo "nav__active"; }?>">contact us</a></li>
                         <li class="nav__list"><a href="book_consultation.php" class="btn btn__nav">Free Consultation</a></li>
                     </ul>
