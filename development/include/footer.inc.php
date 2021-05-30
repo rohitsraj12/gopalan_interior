@@ -29,7 +29,7 @@
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="about_us.php">How we work</a></li>
                                     <li><a href="gallery.php">Gallery</a></li>
-                                    <li><a href="portfolio.php">Portfolio</a></li>
+                                    <!-- <li><a href="portfolio.php">Portfolio</a></li> -->
                                     <li><a href="contact_us.php">Contact us</a></li>
                                     <li><a href="faq.php">FAQ</a></li>
                                 </ul>
@@ -41,11 +41,10 @@
                             </header>
                             <div class="footer__body">
                                 <ul class="list-unstyled">
-                                    <li><a href="portfolio_details.php">Commercial Interior Design</a></li>
-                                    <li><a href="portfolio_details.php">Residential Interior Design</a></li>
-                                    <li><a href="portfolio_details.php">Modular Kitchen Design</a></li>
-                                    <li><a href="portfolio_details.php">Design Consulting</a></li>
-                                    <li><a href="portfolio_details.php">Custom Furniture Design</a></li>
+                                    <li><a href="residential_interior_design.php">Residential Interior Design</a></li>
+                                    <li><a href="commercial_interior_design.php">Commercial Interior Design</a></li>
+                                    <li><a href="modular_kitchen_design.php">Modular Kitchen Design</a></li>
+                                    <li><a href="custom_furniture_design.php">Custom Furniture Design</a></li>
                                 </ul>
                             </div>
                         </div>
