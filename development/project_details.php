@@ -30,7 +30,7 @@
                         data-aos-duration="1000"
                         data-aos-easing="ease-in-out">
                             <h2 class="banner_header-one">
-                                Portfolio - Project Name
+                                Services -  Commercial Interior Design
                             </h2>
                             <!-- <h3 class="banner_header-two">
                                 Architecture
@@ -84,10 +84,10 @@
                             data-aos-easing="ease-in-out">
                                 <div class="wrap__header">
                                     <h2 class="section__header-primary">
-                                        Project name
+                                        Service
                                     </h2>
                                     <h2 class="section__header-main">
-                                        Project details goes here
+                                        Commercial Interior Design
                                     </h2>
                                 </div>
                                 
