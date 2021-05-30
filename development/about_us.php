@@ -13,7 +13,7 @@
         <!-- start body banner -->
         <div class="other-body__banner">
             <div class="banner__image">
-                <img class="other-banner__image-block" src="img/banner/banner_lg_2.jpg" alt="">
+                <img class="other-banner__image-block" src="img/banner/how_we_work_lg.jpg" alt="">
             </div>
             <!-- end banner image -->
 
