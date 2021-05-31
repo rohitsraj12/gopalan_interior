@@ -78,10 +78,12 @@
                                 <div class="wrap__detail px-3">
                                     <header class="text-center">
                                         
-                                        <h4 class="h3 pb-3">Consult our interior design advisor for free!</h4> 
+                                        <h4 class="h3 pb-3">
+                                            Consult Our Interior Designers
+                                        </h4> 
                                         
                                         <p class="sub__detail">
-                                            Don't step back. It's your right to know if we're good for you. We'd be more than happy and waiting to offer our services for you.
+                                            Have a chat with our interior designers and we will be more than happy to offer you the best of our services.    
                                         </p>
                                     </header>
 
