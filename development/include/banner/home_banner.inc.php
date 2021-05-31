@@ -15,11 +15,11 @@
                         <div class="banner__content-wrap wrap__container home__banner-content">
                             <section>
                                 <header class="">
-                                    <h2 class="banner_header-one">
+                                    <!-- <h2 class="banner_header-one">
                                         Residential Interiors
-                                    </h2>
+                                    </h2> -->
                                     <h2 class="banner_header-two">
-                                        Residential Interiors
+                                        Residential and Commercial Interiors
                                     </h2>
                                 </header>
                                 
@@ -46,11 +46,11 @@
                         <div class="banner__content-wrap wrap__container home__banner-content">
                             <section>
                                 <header class="">
-                                    <h2 class="banner_header-one">
+                                   <!--  <h2 class="banner_header-one">
                                         Commercial Interiors
-                                    </h2>
+                                    </h2> -->
                                     <h2 class="banner_header-two">
-                                        Office Space Design
+                                        Residential and Commercial Interiors
                                     </h2>
                                 </header>
                                 
