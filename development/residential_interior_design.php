@@ -67,7 +67,7 @@
                             data-aos-duration="1000"
                             data-aos-easing="ease-in-out">
                                 <figure>
-                                    <img class="w-100" src="img/draft/story-2.jpg" alt="">
+                                    <img class="w-100" src="img/service/residential/residential.jpg" alt="">
                                 </figure>    
                             
                             </div>
@@ -88,12 +88,12 @@
                                 </div>
                                 
                                 <div class="wrap__detail">
-                                    <p class="sub__detail">
-                                        Lorem ipsum dolor sit a tenetur magni amet similique, excepturi praesentium vero odio vel voluptas.
-                                    </p>
+                                    <!-- <p class="sub__detail">
+                                        We know the art of creating aesthetic and functional living spaces. Our team of experts design 2BHK and 3BHK homes that are a reflection of your personality.
+                                    </p> -->
 
                                     <p class="main__detail">
-                                        Lorem,tore asperiores mollitia et nostrum? Nostrum fuga autem optio dolor, provident explicabo deleniti laboriosam neque repudiandae modi dolorem amet distinctio odit odio delectus cumque illo vitae assumenda aut!
+                                        We know the art of creating aesthetic and functional living spaces. Our team of experts design 2BHK and 3BHK homes that are a reflection of your personality.
                                     </p>
 <!-- 
                                     <p class="main__detail">
@@ -139,13 +139,13 @@
                                 <blockquote class="">
                                     <div class=" text-center">
                                         <p class="client__say">
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum eum tenetur officiis pariatur doloribus accusantium odio nisi magnam! A hic nesciunt cum culpa earum quasi illum nemo nobis esse repellat.
+                                        I have taken the services of Gopalan Interiors for my 2BHK house and it has come out really well. They gave on time services and gave me the desired output at an affordable price. They quote the best price in the market and it’s worth taking services from Gopalan Interiors.    
                                         </p>
                                         <div class="client-info d-flex justify-content-center">
                                             
                                             <cite>
                                                 <h4 class="client__name">
-                                                    Rajasekhara Reddy A
+                                                    Avinash R
                                                 </h4>
                                                 <!-- <p class="client__profile">
                                                     Director
@@ -195,7 +195,7 @@
                                                 <img class="mklbItem" src="img/draft/4.jpg" data-gallery="myGal" />
 
                                             </div>
-                                            <div class="col-12 col-sm-4 mb-4">
+                                            <!-- <div class="col-12 col-sm-4 mb-4">
                                                 <img class="mklbItem" src="img/draft/1.jpg" data-gallery="myGal" />
 
                                             </div>
@@ -206,7 +206,7 @@
                                             <div class="col-12 col-sm-4 mb-4">
                                                 <img class="mklbItem" src="img/draft/4.jpg" data-gallery="myGal" />
 
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
