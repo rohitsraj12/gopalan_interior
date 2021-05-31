@@ -66,7 +66,7 @@
                             data-aos-duration="1000"
                             data-aos-easing="ease-in-out">
                                 <figure>
-                                    <img class="w-100" src="img/draft/story-2.jpg" alt="">
+                                    <img class="w-100" src="img/service/commercial/commercial.jpg" alt="">
                                 </figure>    
                             
                             </div>
@@ -87,12 +87,12 @@
                                 </div>
                                 
                                 <div class="wrap__detail">
-                                    <p class="sub__detail">
+                                    <!-- <p class="sub__detail">
                                         Lorem ipsum dolor sit a tenetur magni amet similique, excepturi praesentium vero odio vel voluptas.
-                                    </p>
+                                    </p> -->
 
                                     <p class="main__detail">
-                                        Lorem,tore asperiores mollitia et nostrum? Nostrum fuga autem optio dolor, provident explicabo deleniti laboriosam neque repudiandae modi dolorem amet distinctio odit odio delectus cumque illo vitae assumenda aut!
+                                        Experts in designing commercial spaces, office spaces, retail spaces with unique and best designs. Designs that suit your need.    
                                     </p>
 <!-- 
                                     <p class="main__detail">
@@ -138,13 +138,13 @@
                                 <blockquote class="">
                                     <div class=" text-center">
                                         <p class="client__say">
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum eum tenetur officiis pariatur doloribus accusantium odio nisi magnam! A hic nesciunt cum culpa earum quasi illum nemo nobis esse repellat.
+                                        The best service given by Gopalan Interiors for my 3BHK apartment having a minimum budget. My house has been designed with the most trending designs available in the market. They have a specialized team to bring the best output that satisfies happy customers like me.    
                                         </p>
                                         <div class="client-info d-flex justify-content-center">
                                             
                                             <cite>
                                                 <h4 class="client__name">
-                                                    Rajasekhara Reddy A
+                                                    Nathan V
                                                 </h4>
                                                 <!-- <p class="client__profile">
                                                     Director
@@ -194,7 +194,7 @@
                                                 <img class="mklbItem" src="img/draft/4.jpg" data-gallery="myGal" />
 
                                             </div>
-                                            <div class="col-12 col-sm-4 mb-4">
+                                            <!-- <div class="col-12 col-sm-4 mb-4">
                                                 <img class="mklbItem" src="img/draft/1.jpg" data-gallery="myGal" />
 
                                             </div>
@@ -205,7 +205,7 @@
                                             <div class="col-12 col-sm-4 mb-4">
                                                 <img class="mklbItem" src="img/draft/4.jpg" data-gallery="myGal" />
 
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
