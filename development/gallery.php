@@ -87,7 +87,7 @@
                                                 <img class="mklbItem" src="img/draft/4.jpg" data-gallery="myGal" />
 
                                             </div>
-                                            <div class="col-12 col-sm-4 col-md-3 mb-4">
+                                           <!--  <div class="col-12 col-sm-4 col-md-3 mb-4">
                                                 <img class="mklbItem" src="img/draft/1.jpg" data-gallery="myGal" />
 
                                             </div>
@@ -106,7 +106,7 @@
                                             <div class="col-12 col-sm-4 col-md-3 mb-4">
                                                 <img class="mklbItem" src="img/draft/4.jpg" data-gallery="myGal" />
 
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                     </div>
