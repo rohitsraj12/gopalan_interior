@@ -12,7 +12,7 @@
 
                             <div class="social__media">
                                 <ul class="list-unstyled d-flex">
-                                    <li class="mx-2"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li class="mx-2"><a href=""><i class="fa fa-facebook"></i></a></li>
                                     <li class="mx-2"><a href=""><i class="fa fa-twitter"></i></a></li>
                                     <li class="mx-2"><a href=""><i class="fa fa-linkedin"></i></a></li>
                                     <li class="mx-2"><a href=""><i class="fa fa-instagram"></i></a></li>
@@ -54,9 +54,9 @@
                             </header>
                             <div class="footer__body">
                                 <ul class="list-unstyled">
-                                    <li><a href="">address: Richmond, Bangalore</a></li>
-                                    <li><a href="">email: contact@gopalaninteriors.com</a></li>
-                                    <li><a href="">phone: +91 999 999 9999</a></li>
+                                    <li><a href="">address: #5/1 Rich Homes, Richmond Road, Bangalore 560025</a></li>
+                                    <li><a href="">email: Interior@gopalanenterprises.com</a></li>
+                                    <li><a href="tel:08049314931">phone: 080 - 4931 4931 (ext: 141/163)</a></li>
                                 </ul>
                             </div>
                         </div>
