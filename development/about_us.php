@@ -73,7 +73,8 @@
                                         why gopalan interiours
                                     </h2>
                                     <h2 class="section__header-main">
-                                    We listen, we create, you enjoy
+                                        <!-- We listen, we create, you enjoy -->
+                                        Creating the Art of Stylish Living
                                     </h2>
                                 </div>
                                 <div class="wrap__detail">
@@ -109,10 +110,10 @@
                                             <li></li>
                                         </ul>-->
                                         <p class="main__detail">
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloremque rem tenetur voluptatibus? Sed, at odio eum quisquam consequuntur, temporibus eveniet culpa fuga nobis, neque officia pariatur eos inventore mollitia optio aliquid. Rerum neque quis maxime.
+                                            At Gopalan Interiors we design homes that compliment your lifestyle. Our trained and qualified designers, creative and innovative ideas and stunning interiors help you design the home of your dreams.    
                                         </p>
                                         <p class="main__detail">
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, sint neque sapiente, ipsam pariatur fugiat quisquam impedit commodi voluptate veniam consectetur! Nostrum voluptatum dolorum eligendi cum voluptatibus! Iure omnis unde porro.
+                                        Our designs are a combination of sophistication and class. We keep our clients on priority and work hard to meet all their needs. Our motto is to provide our clients a combination of quality products and great beauty.
                                         </p>
                                     </div> 
                                 </div>
@@ -124,9 +125,8 @@
                             data-aos-duration="1000"
                             data-aos-easing="ease-in-out">
                             <figure>
-
-                            <img class="w-100" src="img/draft/service-4.jpg" alt="">
-                        </figure>
+                                <img class="w-100" src="img/draft/service-4.jpg" alt="">
+                            </figure>
                                 
                             </div>
                         </div>
@@ -134,12 +134,10 @@
                 </section>
                 <!-- end section about -->
 
-
-
                 <section class="pb-5 mb-3">
                     <div class="container pt-4">
                         <div class="row text-center">
-                            <div class="col-12 col-md-4">
+                            <div class="col-12 col-md-6">
                                 <article class="block__stage"
                                 data-aos="fade-up"
                                 data-aos-offset="100"
@@ -160,7 +158,7 @@
                                     </div>
                                 </article>
                             </div>
-                            <div class="col-12 col-md-4">
+                            <div class="col-12 col-md-6">
                                 <article class="block__stage"
                                 data-aos="fade-up"
                                 data-aos-offset="100"
@@ -181,7 +179,7 @@
                                     </div>
                                 </article>
                             </div>
-                            <div class="col-12 col-md-4">
+                            <!-- <div class="col-12 col-md-4">
                                 <article class="block__stage"
                                 data-aos="fade-up"
                                 data-aos-offset="100"
@@ -201,7 +199,7 @@
                                         </p>
                                     </div>
                                 </article>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </section>
@@ -414,66 +412,9 @@
                 </section> -->
                 <!-- end section story -->
 
-                <section class="section__book pb-5">
-
-                    <div class="wrap__container">
-                        <header class="pb-3" 
-                            data-aos="fade-right"
-                            data-aos-offset="200"
-                            data-aos-delay="50"
-                            data-aos-duration="1000"
-                            data-aos-easing="ease-in-out">
-                            <h2 class="section__header-primary pb-3">
-                                Contact
-                            </h2>
-                        </header>
-
-                        <div class="section__body pb-5">
-                            <div class="row">
-                                <div class="col-12 col-md-4">
-
-                                    <article>
-                                        <header>
-                                            Call Us
-                                        </header>
-
-                                        <div class="book__body text-center">
-                                            <a href="contact_us.html" class="btn">+91 999 999 99999</a>
-                                        </div>
-                                    </article>
-                                </div>
-                                <div class="col-12 col-md-4">
-
-                                    <article>
-                                        <header>
-                                            Free consultation
-                                        </header>
-
-                                        <div class="book__body text-center">
-                                            <a href="contact_us.html" class="btn btn__primary">Free Consultation</a>
-                                        </div>
-                                    </article>
-                                </div>
-                                <div class="col-12 col-md-4">
-                                    <article>
-                                        <header>
-                                            Follow us
-                                        </header>
-                                        <ul class="social__media list-unstyled d-flex justify-content-center">
-                                            <li class="mx-2"><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                            <li class="mx-2"><a href=""><i class="fa fa-twitter"></i></a></li>
-                                            <li class="mx-2"><a href=""><i class="fa fa-linkedin"></i></a></li>
-                                            <li class="mx-2"><a href=""><i class="fa fa-instagram"></i></a></li>
-                                        </ul>
-                                    </article>
-                                </div>
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </section>
+                <?php
+                    include "include/sections/contact_detail.php";
+                ?>
             </main>
         </div>
         <!-- end body container -->
