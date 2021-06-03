@@ -23,7 +23,7 @@
                     </header>
 
                     <div class="book__body text-center">
-                        <a href="tel:08049314931" class="btn">080 4931 4931</a>
+                        <a href="tel:08046824682" class="btn">080-46824682 <br/>(ext: 141/163)</a>
                     </div>
                 </article>
             </div>
@@ -47,7 +47,7 @@
                     <ul class="social__media list-unstyled d-flex justify-content-center">
                         <li class="mx-2"><a href="#"><i class="fa fa-facebook"></i></a></li>
                         <li class="mx-2"><a href=""><i class="fa fa-twitter"></i></a></li>
-                        <li class="mx-2"><a href=""><i class="fa fa-linkedin"></i></a></li>
+                        <!-- <li class="mx-2"><a href=""><i class="fa fa-linkedin"></i></a></li> -->
                         <li class="mx-2"><a href=""><i class="fa fa-instagram"></i></a></li>
                     </ul>
                 </article>
