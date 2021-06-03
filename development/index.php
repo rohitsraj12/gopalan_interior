@@ -47,7 +47,7 @@
                                     </p>
 
                                     <p class="main__detail">
-                                        Our mission is to offer you innovative interior designs, making your home a place that you love spending time with your family and friends. We strive for perfection in every step.
+                                        Our mission is to offer you innovative designs, making your home a place that you love spending time with your family and friends. We strive for perfection in every step.
                                     </p>
                                 </div>
                             </div>
@@ -301,7 +301,7 @@
                                 <blockquote class="">
                                     <div class=" text-center">
                                         <p class="client__say">
-                                        I have taken the services of Gopalan Interiors for my 2BHK house and it has come out really well. They gave on time services and gave me the desired output at an affordable price. They quote the best price in the market and it’s worth taking services from Gopalan Interiors.    
+                                            I have taken the services of Gopalan Interiors for my 2BHK house and it has come out really well. They gave on time services and gave me the desired output at an affordable price. They quote the best price in the market and it’s worth taking services from Gopalan Interiors.    
                                         </p>
                                         <div class="client-info d-flex justify-content-center">
                                             
