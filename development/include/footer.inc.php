@@ -55,7 +55,7 @@
                             <div class="footer__body">
                                 <ul class="list-unstyled">
                                     <li><a href="">address: #5/1 Rich Homes, Richmond Road, Bangalore 560025</a></li>
-                                    <li><a href="">email: Interior@gopalanenterprises.com</a></li>
+                                    <li><a href="mailto:interior@gopalanenterprises.com">email: Interior@gopalanenterprises.com</a></li>
                                     <li><a href="tel:08046824682">phone: 080-46824682 (ext: 141/163)</a></li>
                                 </ul>
                             </div>
@@ -64,9 +64,22 @@
                 </div>
                     
                 <div class="copy__right">
-                    <p class="text-center py-2 m-0">
-                        Copyright &copy;<script>document.write(new Date().getFullYear());</script> | <a href="https://www.gopalaninteriors.com/">gopalaninteriors.com</a> | <a href="Privacy_policy.html">Privacy Policy</a>
-                    </p>
+                    <div class="wrap__container">
+                        <div class="row">
+                            <div class="col-md-6 text-center text-md-left ">
+                                <p class=" pt-2 m-0">
+                                    copyright &copy;<script>document.write(new Date().getFullYear());</script> | <a href="https://www.gopalanenterprises.com/" target="_blank">Gopalan Enterprises</a> 
+                                </p>
+                            </div>
+                            <div class="col-md-6 text-center text-md-right">
+                                <p class=" py-2 m-0">
+                                    <a href="https://www.gopalanenterprises.com/terms-and-conditions.html" target="_blank">Terms and Conditions</a> 
+                                    | 
+                                    <a href="https://www.gopalanenterprises.com/privacy-policy-of-gopalan-enterprises.html" target="_blank">Privacy Policy</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </footer>
         </div>
