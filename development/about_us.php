@@ -29,7 +29,7 @@
                         data-aos-easing="ease-in-out">
                             <h2 class="banner_header-one">
                                 <!-- About -->
-                                How It Works
+                                How We Works
                             </h2>
                             <!-- <h3 class="banner_header-two">
                                 Gopalan Interiors
@@ -86,7 +86,7 @@
                                     </p>
 
                                     <p class="main__detail">  
-                                        Our mission is to offer you innovative interior designs, making your home a place that you love spending time with your family and friends. We strive for perfection in every step.
+                                        Our mission is to offer you innovative designs, making your home a place that you love spending time with your family and friends. We strive for perfection in every step.
                                     </p>
                                 </div>
 
