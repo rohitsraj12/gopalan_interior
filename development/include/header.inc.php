@@ -31,7 +31,7 @@
             <header class="container">
                 <!-- start header brand -->
                 <div class="header__brand">
-                    <a href="">
+                    <a href="index.php">
                         <img class="header__brand-img" src="img/brand/gopalan-interiors-header.png" alt="">
                     </a>
                 </div>
