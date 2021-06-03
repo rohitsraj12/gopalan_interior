@@ -115,6 +115,7 @@
                 </section>
                 <!-- end section about -->
 
+                
                 <!-- start section testimonial -->
                 <section class="section__testimonial">
                     
@@ -140,13 +141,13 @@
                                 <blockquote class="">
                                     <div class=" text-center">
                                         <p class="client__say">
-                                        The experience and excellence of the Gopalan Interiors team brought a new texture to my office space that I had never imagined with best pricing. I am very happy with the services provided by Gopalan Interiors which has fulfilled my dream.
+                                        The best service given by Gopalan Interiors for my 3BHK apartment having a minimum budget. My house has been designed with the most trending designs available in the market. They have a specialized team to bring the best output that satisfies happy customers like me.    
                                         </p>
                                         <div class="client-info d-flex justify-content-center">
                                             
                                             <cite>
                                                 <h4 class="client__name">
-                                                    Sashi K
+                                                    Nathan V
                                                 </h4>
                                                 <!-- <p class="client__profile">
                                                     Director
