@@ -276,6 +276,385 @@
                 </section>
                 <!-- end section story -->
 
+                <section class="section__block section__we-offer bg-light">
+
+                    <div class="wrap__container">
+                    
+                        <div class="wrap__header text-center">
+                            <!-- <h2 class="section__header-primary">
+                                Story of Gopalan
+                            </h2> -->
+                            <h2 class="section__header-main">
+                                What Do We Offer?
+                            </h2>
+                        </div>
+
+                        <div class="section__body">
+
+                            <div class="wrap__tabs">
+                                <ul>
+                                    <li class="tab__list active__tab" data-tab="residential">Residencial</li>
+                                    <li class="tab__list" data-tab="commercial">Commercial</li>
+                                    <li class="tab__list" data-tab="kitchen">Modulat Kitchen</li>
+                                    <li class="tab__list" data-tab="furniture">Custom Furniture</li>
+                                </ul>
+                            </div>
+
+                            <div class="wrap__tab-detail">
+                                <section class="tab__detail" id="residential">
+                                    <article class="row">
+                                        <div class="col-sm-5">
+                                            <figure>
+                                                <img src="img/service/residential/residential.jpg" alt="">
+                                            </figure>
+                                        </div>
+                                        <div class="col-sm-7">
+                                            <header>
+                                                <h2 class="sub__detail">Residencial Interiors</h2>
+                                            </header>
+
+                                            <div class="tab__detail-body">
+                                            
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Furnishing
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>curtains</li>
+                                                        <li>home linen</li>
+                                                        <li>upholstery</li>
+                                                        <li>rugs</li>
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Wall treatment
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>wallpapers</li>
+                                                        <li>cladding</li>
+                                                        <li>paneling</li>
+                                                        <li>decals</li>
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Decor
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>potted plants</li>
+                                                        <li>wall art</li>
+                                                        <li>mirrors</li>
+                                                    </ul>
+                                                </div>
+
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Appliances
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>fridge</li>
+                                                        <li>washing machine</li>
+                                                        <li>chimney</li>
+                                                        <li>hob</li>
+                                                        <li>microwave</li>
+                                                        <li>conventional oven</li>
+                                                    </ul>
+                                                </div>
+
+                                            
+                                            </div>
+
+
+                                        </div>
+                                    </article>
+                                </section>
+                                <section class="tab__detail" id="commercial">
+                                    
+                                    <article class="row">
+                                        <div class="col-sm-5">
+                                            <figure>
+                                                <img src="img/service/commercial/commercial.jpg" alt="">
+                                            </figure>
+                                        </div>
+                                        <div class="col-sm-7">
+                                            <header>
+                                                <h2 class="sub__detail">Commercial Interiors</h2>
+                                            </header>
+
+                                            <div class="tab__detail-body">
+                                            
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Furnishing
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>curtains</li>
+                                                        <li>home linen</li>
+                                                        <li>upholstery</li>
+                                                        <li>rugs</li>
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Wall treatment
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>wallpapers</li>
+                                                        <li>cladding</li>
+                                                        <li>paneling</li>
+                                                        <li>decals</li>
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Decor
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>potted plants</li>
+                                                        <li>wall art</li>
+                                                        <li>mirrors</li>
+                                                    </ul>
+                                                </div>
+
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Appliances
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>fridge</li>
+                                                        <li>washing machine</li>
+                                                        <li>chimney</li>
+                                                        <li>hob</li>
+                                                        <li>microwave</li>
+                                                        <li>conventional oven</li>
+                                                    </ul>
+                                                </div>
+
+                                            
+                                            </div>
+                                        </div>
+                                    </article>
+                                </section>
+                                <section class="tab__detail" id="kitchen">
+                                    <article class="row">
+                                        <div class="col-sm-5">
+                                            <figure>
+                                                <img src="img/service/modular_kitchen/modular_kitchen.jpg" alt="">
+                                            </figure>
+                                        </div>
+                                        <div class="col-sm-7">
+                                            <header>
+                                                <h2 class="sub__detail">Residencial Interiors</h2>
+                                            </header>
+
+                                            <div class="tab__detail-body">
+                                            
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Furnishing
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>curtains</li>
+                                                        <li>home linen</li>
+                                                        <li>upholstery</li>
+                                                        <li>rugs</li>
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Wall treatment
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>wallpapers</li>
+                                                        <li>cladding</li>
+                                                        <li>paneling</li>
+                                                        <li>decals</li>
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Decor
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>potted plants</li>
+                                                        <li>wall art</li>
+                                                        <li>mirrors</li>
+                                                    </ul>
+                                                </div>
+
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Appliances
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>fridge</li>
+                                                        <li>washing machine</li>
+                                                        <li>chimney</li>
+                                                        <li>hob</li>
+                                                        <li>microwave</li>
+                                                        <li>conventional oven</li>
+                                                    </ul>
+                                                </div>
+
+                                            
+                                            </div>
+
+
+                                        </div>
+                                    </article>
+                                </section>
+                                <section class="tab__detail" id="furniture">
+                                    <article class="row">
+                                        <div class="col-sm-5">
+                                            <figure>
+                                                <img src="img/service/custom_furniture/custom_furniture.jpg" alt="">
+                                            </figure>
+                                        </div>
+                                        <div class="col-sm-7">
+                                            <header>
+                                                <h2 class="sub__detail">Custom Furniture</h2>
+                                            </header>
+
+                                            <div class="tab__detail-body">
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Furnishing
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>curtains</li>
+                                                        <li>home linen</li>
+                                                        <li>upholstery</li>
+                                                        <li>rugs</li>
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Wall treatment
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>wallpapers</li>
+                                                        <li>cladding</li>
+                                                        <li>paneling</li>
+                                                        <li>decals</li>
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Decor
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>potted plants</li>
+                                                        <li>wall art</li>
+                                                        <li>mirrors</li>
+                                                    </ul>
+                                                </div>
+
+                                                <div class="tab__detail-group">
+                                                    <h6>
+                                                        <span class="faq__icon">
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </span>
+                                                        Appliances
+                                                    </h6>
+
+                                                    <ul class="">
+                                                        <li>fridge</li>
+                                                        <li>washing machine</li>
+                                                        <li>chimney</li>
+                                                        <li>hob</li>
+                                                        <li>microwave</li>
+                                                        <li>conventional oven</li>
+                                                    </ul>
+                                                </div>
+
+                                            
+                                            </div>
+                                        </div>
+                                    </article>
+                                </section>
+                            </div>
+                        
+                        </div>
+                    
+                    </div>
+
+                </section>
+                
+                
+                
+                <?php
+                    include "include/sections/work_process.php";
+                ?>
+
                 <!-- start section testimonial -->
                 <section class="section__testimonial">
                     
@@ -363,12 +742,6 @@
                     
                 </section>
                 <!-- end section testimonial -->
-                
-                
-                
-                <?php
-                    include "include/sections/work_process.php";
-                ?>
 
                 <?php
                     include "include/sections/contact_detail.php";
