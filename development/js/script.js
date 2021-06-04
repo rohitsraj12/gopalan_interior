@@ -107,4 +107,29 @@ $(document).ready(function(){
       $(this).parent().find('.fa-angle-down').css('transform', 'rotate(180deg)');
     });
 
+    // what do we offer
+    
+    $(".tab__detail").hide();
+    $(".tab__detail:first-child").show();
+    $(".tab__list").click(function(){
+      var captureAttr = $(this).attr("data-tab");
+      $(".tab__list").removeClass("active__tab");
+      $(this).addClass("active__tab");
+
+      $(".tab__detail").hide();
+      $("#" + captureAttr).fadeIn(400);
+    })
+
+
+    $(".tab__detail-group").children("ul").hide();
+    $(".tab__detail-group:first-child").children("ul").show();
+    $('.tab__detail-group').click(function(){
+      $('.tab__detail-group ul').slideUp(300);
+      $('.fa-angle-down').css('transform', 'rotate(0deg)');
+      $(this).children("ul").slideDown(300);
+      $(this).find('.fa-angle-down').css('transform', 'rotate(180deg)');
+    });
+
+
+
 })
