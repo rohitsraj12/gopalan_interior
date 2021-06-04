@@ -551,3 +551,34 @@ a:hover {
 .contact__lists li a {
   color: var(--color-theme);
 }
+
+/* ===========================
+  
+      #what we offer section home
+  
+  ==============================*/
+
+.wrap__tabs {
+  margin: 40px 0;
+}
+.wrap__tabs ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.tab__list {
+  padding: 8px 24px;
+  background-color: var(--bg-color-theme-one);
+  cursor: pointer;
+  transition: ease-in-out 600ms;
+  -webkit-transition: ease-in-out 600ms;
+  -moz-transition: ease-in-out 600ms;
+  -ms-transition: ease-in-out 600ms;
+  -o-transition: ease-in-out 600ms;
+}
+.active__tab,
+.wrap__tabs ul li:hover {
+  background-color: #212529;
+  color: var(--color-white);
+}
