@@ -410,12 +410,12 @@
                                                         Furnishing
                                                     </h6>
 
-                                                    <ul class="">
+                                                    <!-- <ul class="">
                                                         <li>curtains</li>
                                                         <li>home linen</li>
                                                         <li>upholstery</li>
                                                         <li>rugs</li>
-                                                    </ul>
+                                                    </ul> -->
                                                 </div>
                                             
                                                 <div class="tab__detail-group">
@@ -426,12 +426,12 @@
                                                         Wall treatment
                                                     </h6>
 
-                                                    <ul class="">
+                                                    <!-- <ul class="">
                                                         <li>wallpapers</li>
                                                         <li>cladding</li>
                                                         <li>paneling</li>
                                                         <li>decals</li>
-                                                    </ul>
+                                                    </ul> -->
                                                 </div>
                                             
                                                 <div class="tab__detail-group">
@@ -442,11 +442,11 @@
                                                         Decor
                                                     </h6>
 
-                                                    <ul class="">
+                                                    <!-- <ul class="">
                                                         <li>potted plants</li>
                                                         <li>wall art</li>
                                                         <li>mirrors</li>
-                                                    </ul>
+                                                    </ul> -->
                                                 </div>
 
                                                 <div class="tab__detail-group">
@@ -457,14 +457,14 @@
                                                         Appliances
                                                     </h6>
 
-                                                    <ul class="">
+                                                    <!-- <ul class="">
                                                         <li>fridge</li>
                                                         <li>washing machine</li>
                                                         <li>chimney</li>
                                                         <li>hob</li>
                                                         <li>microwave</li>
                                                         <li>conventional oven</li>
-                                                    </ul>
+                                                    </ul> -->
                                                 </div>
 
                                             
@@ -481,7 +481,7 @@
                                         </div>
                                         <div class="col-sm-7">
                                             <header>
-                                                <h2 class="sub__detail">Residencial Interiors</h2>
+                                                <h2 class="sub__detail">Modular Kitchen</h2>
                                             </header>
 
                                             <div class="tab__detail-body">
@@ -491,14 +491,15 @@
                                                         <span class="faq__icon">
                                                             <i class="fa fa-angle-down"></i>
                                                         </span>
-                                                        Furnishing
+                                                        Kitchen
                                                     </h6>
 
                                                     <ul class="">
-                                                        <li>curtains</li>
-                                                        <li>home linen</li>
-                                                        <li>upholstery</li>
-                                                        <li>rugs</li>
+                                                        <li>Straight</li>
+                                                        <li>Parallel</li>
+                                                        <li>L-shape</li>
+                                                        <li>U-shape</li>
+                                                        <li>Island</li>
                                                     </ul>
                                                 </div>
                                             
@@ -507,14 +508,12 @@
                                                         <span class="faq__icon">
                                                             <i class="fa fa-angle-down"></i>
                                                         </span>
-                                                        Wall treatment
+                                                        Wardrobe
                                                     </h6>
 
                                                     <ul class="">
-                                                        <li>wallpapers</li>
-                                                        <li>cladding</li>
-                                                        <li>paneling</li>
-                                                        <li>decals</li>
+                                                        <li>Sliding doors</li>
+                                                        <li>Swing doors</li>
                                                     </ul>
                                                 </div>
                                             
@@ -523,34 +522,19 @@
                                                         <span class="faq__icon">
                                                             <i class="fa fa-angle-down"></i>
                                                         </span>
-                                                        Decor
+                                                        Storage
                                                     </h6>
 
                                                     <ul class="">
-                                                        <li>potted plants</li>
-                                                        <li>wall art</li>
-                                                        <li>mirrors</li>
+                                                        <li>TV units</li>
+                                                        <li>Sideboards</li>
+                                                        <li>Chest of drawers</li>
+                                                        <li>Shoe racks</li>
+                                                        <li>Bookshelves</li>
+                                                        <li>Wall-mounted storage</li>
+                                                        <li>Foyer units</li>
                                                     </ul>
                                                 </div>
-
-                                                <div class="tab__detail-group">
-                                                    <h6>
-                                                        <span class="faq__icon">
-                                                            <i class="fa fa-angle-down"></i>
-                                                        </span>
-                                                        Appliances
-                                                    </h6>
-
-                                                    <ul class="">
-                                                        <li>fridge</li>
-                                                        <li>washing machine</li>
-                                                        <li>chimney</li>
-                                                        <li>hob</li>
-                                                        <li>microwave</li>
-                                                        <li>conventional oven</li>
-                                                    </ul>
-                                                </div>
-
                                             
                                             </div>
 
@@ -576,14 +560,15 @@
                                                         <span class="faq__icon">
                                                             <i class="fa fa-angle-down"></i>
                                                         </span>
-                                                        Furnishing
+                                                        Beds
                                                     </h6>
 
                                                     <ul class="">
-                                                        <li>curtains</li>
-                                                        <li>home linen</li>
-                                                        <li>upholstery</li>
-                                                        <li>rugs</li>
+                                                        <li>King</li>
+                                                        <li>Queen</li>
+                                                        <li>Single</li>
+                                                        <li>Bunk</li>
+                                                        <li>Wall-mounted</li>
                                                     </ul>
                                                 </div>
                                             
@@ -592,14 +577,15 @@
                                                         <span class="faq__icon">
                                                             <i class="fa fa-angle-down"></i>
                                                         </span>
-                                                        Wall treatment
+                                                        Sofas
                                                     </h6>
 
                                                     <ul class="">
-                                                        <li>wallpapers</li>
-                                                        <li>cladding</li>
-                                                        <li>paneling</li>
-                                                        <li>decals</li>
+                                                        <li>Single</li>
+                                                        <li>2-seaters</li>
+                                                        <li>3-seaters</li>
+                                                        <li>sectionals</li>
+                                                        <li>diwans</li>
                                                     </ul>
                                                 </div>
                                             
@@ -608,13 +594,13 @@
                                                         <span class="faq__icon">
                                                             <i class="fa fa-angle-down"></i>
                                                         </span>
-                                                        Decor
+                                                        Storage
                                                     </h6>
 
                                                     <ul class="">
-                                                        <li>potted plants</li>
-                                                        <li>wall art</li>
-                                                        <li>mirrors</li>
+                                                        <li>4-seater</li>
+                                                        <li>6-seater</li>
+                                                        <li>8-seater</li>
                                                     </ul>
                                                 </div>
 
@@ -623,16 +609,13 @@
                                                         <span class="faq__icon">
                                                             <i class="fa fa-angle-down"></i>
                                                         </span>
-                                                        Appliances
+                                                        Pooja Unit
                                                     </h6>
 
                                                     <ul class="">
-                                                        <li>fridge</li>
-                                                        <li>washing machine</li>
-                                                        <li>chimney</li>
-                                                        <li>hob</li>
-                                                        <li>microwave</li>
-                                                        <li>conventional oven</li>
+                                                        <li>4-seater</li>
+                                                        <li>6-seater</li>
+                                                        <li>8-seater</li>
                                                     </ul>
                                                 </div>
 
